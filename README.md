@@ -1,7 +1,7 @@
 # EasyCollegeCourses
 A Python Script For Picking The Easiest College Courses
 
-##HOW-TO
+## HOW-TO
 To run interactively use the following:
     python3 courseFinder.py
 To run from the command line:
